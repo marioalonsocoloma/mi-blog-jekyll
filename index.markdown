@@ -1,6 +1,8 @@
 ---
 layout: home
-title: Mi Blog de Práctica I 
+title: Mi Blog de Práctica
 ---
 
-¡Esta es mi práctica de Taller Transversal I terminada!
+### ¡Bienvenido!
+
+Esta es mi práctica de Taller Transversal I terminada.
